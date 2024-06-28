@@ -19,4 +19,4 @@ Player Ran Bus Job with blips for bus stops (add more in the config), a built in
 			['3'] = { name = "Head Supervisor", payment = 125 },
 			['4'] = { name = "Owner", isboss = true, payment = 150 },
 		},
-	},```
+	},
